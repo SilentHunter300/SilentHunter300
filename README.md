@@ -4,7 +4,7 @@
 <h3 align="center">Data Analyst | Data Architect</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SilentHunter300&color=blue)
-[![Linkedin Badge](https://img.shields.io/badge/-Youssef Fathy-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-fathy/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-YoussefFathy-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-fathy/ "Connect on LinkedIn")
 
 
 
