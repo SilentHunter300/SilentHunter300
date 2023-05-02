@@ -1,10 +1,11 @@
-### Hi there 👋
-
-<h1 align="center">Greetings, Youssef Fathy</h1>
+<h1 align="center">Greetings <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
+<h3 align="center">Youssef Fathy</h3>
 <h3 align="center">Data Analyst | Data Architect</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SilentHunter300&color=blue)
 [![Linkedin Badge](https://img.shields.io/badge/-YoussefFathy-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-fathy/ "Connect on LinkedIn")
+
+<img width="250" align="center" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 Know More?:
 
@@ -31,6 +32,9 @@ Tools:
 ![BigQuery](https://img.shields.io/badge/BigQuery-%23FF9900.svg?style=flat&logo=google-bigquery&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-E97627?style=for-the-badge&logo=PowerBI&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## &#x1f4c8; GitHub Stats 
 
