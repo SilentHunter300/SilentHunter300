@@ -12,8 +12,8 @@ Know More?:
 - 🌱 I’m currently learning Data Engineering.
 - 👯 I’m looking to collaborate on Data Analysis Projects.
 - 🤔 I’m looking for help with Data Engineering Structure.
-- 📄 check Me Out [Resume](https://drive.google.com/file/d/16peFnBgkM5SQZkmV0Gmxm6JUk8U7IrBV/view?usp=share_link) for more details.
-- 💬 Ask me about ...
+- 📄 [Check Me Out](https://drive.google.com/file/d/16peFnBgkM5SQZkmV0Gmxm6JUk8U7IrBV/view?usp=share_link) for more details.
+- 💬 Ask me about Data - Anime - Marvel Universe - Classic Jazz Music
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-YoussefFathy-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-fathy/ "Connect on LinkedIn") or [![Outlook](https://img.shields.io/badge/-YoussefFathy-c14438?style=flat&logo=Outlook&logoColor=blue)](https://outlook.live.com/mail/?view=cm&fs=1&to=youssef.fathy3000@outlook.com)
 - ⚡ Fun fact: Mostly runs on coffee / Anime Geek
 
@@ -31,4 +31,19 @@ Tools:
 ![BigQuery](https://img.shields.io/badge/BigQuery-%23FF9900.svg?style=flat&logo=google-bigquery&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-E97627?style=for-the-badge&logo=PowerBI&logoColor=white)
--->
+
+## &#x1f4c8; GitHub Stats 
+
+<br>
+
+<a href="https://github.com/SilentHunter300">
+  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentHunter300&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a> 
+
+
+<a href="https://github.com/SilentHunter300">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SilentHunter300&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="esraa's GitHub Stats" />
+</a>
+
+<br>
+<br>
