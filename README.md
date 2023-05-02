@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-<!--
-**SilentHunter300/SilentHunter300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h1 align="center">Greetings 🏻, Youssef Fathy</h1>
+<h1 align="center">Greetings, Youssef Fathy</h1>
 <h3 align="center">Data Analyst | Data Architect</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SilentHunter300&color=blue)
-[![Linkedin Badge](https://img.shields.io/badge/-esraahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-fathy/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Youssef Fathy-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-fathy/ "Connect on LinkedIn")
 
 
 
